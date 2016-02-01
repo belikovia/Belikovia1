@@ -1,3 +1,3 @@
 ﻿Public Class Class2
-{12345678erfergfer999999999999}
+{12345678erfergfer99999900000000}
 End Class
